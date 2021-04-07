@@ -86,6 +86,10 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 >sudo apt-get install ros-melodic-rosserial-arduino   
 >sudo apt-get install ros-melodic-rosserial   
 > - melodic is ros-version-name
+>## 3.3 armadillo
+>sudo apt update
+>sudo apt install libarmadillo-dev
+ 
 
 # 4. Run
 
